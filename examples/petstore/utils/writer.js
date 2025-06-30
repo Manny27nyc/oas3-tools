@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 var ResponsePayload = function(code, payload) {
     this.code = code;
     this.payload = payload;

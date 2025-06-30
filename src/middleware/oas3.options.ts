@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { OpenApiValidatorOpts } from 'express-openapi-validator/dist/framework/types';
 import { LoggingOptions } from './logging.options'
 import { SwaggerUiOptions } from './swagger.ui.options';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export class SwaggerUiOptions {
     public apiDocsPath: string;
     public swaggerUIPath: string;

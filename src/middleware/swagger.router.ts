@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 'use strict';
 
 import {defaults, each, isArray, isFunction, isPlainObject, isUndefined} from 'lodash';
